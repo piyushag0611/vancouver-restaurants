@@ -1,0 +1,9 @@
+{
+	"name": "DF-vancouver-restaurants",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5e7519e8-b319-4710-8521-c6d8a03d5c63",
+		"tenantId": "04e8677e-c989-47b9-8619-d83d5a5f6c67"
+	}
+}
