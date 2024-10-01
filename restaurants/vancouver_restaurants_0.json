@@ -1,0 +1,495 @@
+[
+  {
+    "id": "BKEQeYdFWTefL-doLMaHVA",
+    "alias": "ember-indian-kitchen-richmond",
+    "name": "Ember Indian Kitchen",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lxB1Or33V8X3679ypHHpDQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/ember-indian-kitchen-richmond?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 82,
+    "categories": [
+      {
+        "alias": "indpak",
+        "title": "Indian"
+      }
+    ],
+    "rating": 3.7,
+    "coordinates": {
+      "latitude": 49.1167858801692,
+      "longitude": -123.157804367319
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "135-6160 London Road",
+      "address2": "",
+      "address3": null,
+      "city": "Richmond",
+      "zip_code": "V7E 4J2",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "135-6160 London Road",
+        "Richmond, BC V7E 4J2",
+        "Canada"
+      ]
+    },
+    "phone": "+16043704485",
+    "display_phone": "+1 604-370-4485",
+    "distance": 13328.76072649478,
+    "business_hours": [],
+    "attributes": {
+      "business_accepts_apple_pay": false,
+      "business_url": "http://www.emberikitchen.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": false,
+        "debit": true,
+        "none": false
+      },
+      "alcohol": "full_bar",
+      "ambience": {
+        "touristy": false,
+        "hipster": false,
+        "romantic": false,
+        "intimate": false,
+        "trendy": false,
+        "upscale": false,
+        "classy": true,
+        "casual": false
+      },
+      "bike_parking": true,
+      "business_parking": {
+        "valet": false,
+        "garage": true,
+        "street": false,
+        "lot": false,
+        "validated": false
+      },
+      "caters": true,
+      "dogs_allowed": false,
+      "drive_thru": false,
+      "good_for_kids": true,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": false,
+        "dinner": true,
+        "brunch": false,
+        "breakfast": false
+      },
+      "happy_hour": null,
+      "has_tv": true,
+      "menu_url": null,
+      "noise_level": "average",
+      "open24_hours": null,
+      "platform_delivery": true,
+      "restaurants_delivery": true,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": true,
+      "restaurants_table_service": true,
+      "restaurants_take_out": true,
+      "waitlist_reservation": true,
+      "wi_fi": "free",
+      "liked_by_vegetarians": null,
+      "liked_by_vegans": null,
+      "outdoor_seating": true,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "qWD1p_AQFYLqrltgRzBFwg",
+    "alias": "village-sushi-bar-richmond",
+    "name": "Village Sushi Bar",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UDtXiZynvcrzPyeaJc2C7Q/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/village-sushi-bar-richmond?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 60,
+    "categories": [
+      {
+        "alias": "sushi",
+        "title": "Sushi Bars"
+      },
+      {
+        "alias": "japanese",
+        "title": "Japanese"
+      }
+    ],
+    "rating": 4.4,
+    "coordinates": {
+      "latitude": 49.1186027526855,
+      "longitude": -123.158828735352
+    },
+    "transactions": [],
+    "price": "$",
+    "location": {
+      "address1": "13020 Number 2 Road",
+      "address2": "Suite 150",
+      "address3": "",
+      "city": "Richmond",
+      "zip_code": "V7E 6S4",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "13020 Number 2 Road",
+        "Suite 150",
+        "Richmond, BC V7E 6S4",
+        "Canada"
+      ]
+    },
+    "phone": "+16042711067",
+    "display_phone": "+1 604-271-1067",
+    "distance": 13449.581493445898,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1400",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1400",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1400",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1400",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1400",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1700",
+            "end": "2000",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_accepts_apple_pay": false,
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "none",
+      "ambience": {
+        "hipster": false,
+        "casual": true,
+        "touristy": false,
+        "trendy": false,
+        "intimate": null,
+        "romantic": false,
+        "classy": false,
+        "upscale": false
+      },
+      "bike_parking": true,
+      "business_parking": {
+        "valet": false,
+        "garage": false,
+        "street": true,
+        "lot": null,
+        "validated": false
+      },
+      "caters": true,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": true,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": true,
+        "dinner": true,
+        "brunch": false,
+        "breakfast": false
+      },
+      "happy_hour": null,
+      "has_tv": true,
+      "menu_url": null,
+      "noise_level": "quiet",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": "casual",
+      "restaurants_delivery": false,
+      "restaurants_good_for_groups": false,
+      "restaurants_reservations": false,
+      "restaurants_table_service": true,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": "no",
+      "liked_by_vegans": null,
+      "outdoor_seating": true,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "M7h8O8FUDcpsI_LZ3MXM9Q",
+    "alias": "riverside-cafe-richmond-2",
+    "name": "Riverside Cafe",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jvznDJZ0xUuCgNWwznRiIg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/riverside-cafe-richmond-2?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 10,
+    "categories": [
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "noodles",
+        "title": "Noodles"
+      }
+    ],
+    "rating": 4.1,
+    "coordinates": {
+      "latitude": 49.11923995426843,
+      "longitude": -123.16411098265552
+    },
+    "transactions": [],
+    "location": {
+      "address1": "12740 Trites Road",
+      "address2": null,
+      "address3": "",
+      "city": "Richmond",
+      "zip_code": "V7E 3R8",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "12740 Trites Road",
+        "Richmond, BC V7E 3R8",
+        "Canada"
+      ]
+    },
+    "phone": "+16042759343",
+    "display_phone": "+1 604-275-9343",
+    "distance": 13223.823948492853,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0730",
+            "end": "1600",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0730",
+            "end": "1600",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0730",
+            "end": "1600",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0730",
+            "end": "1600",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0730",
+            "end": "1600",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0730",
+            "end": "1600",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "liked_by_vegans": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "qjJyl607Rge7i1EkjPnpNA",
+    "alias": "advanced-mobile-welding-richmond",
+    "name": "Advanced Mobile Welding",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/advanced-mobile-welding-richmond?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 0,
+    "categories": [],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 49.1212265,
+      "longitude": -123.1644351
+    },
+    "transactions": [],
+    "location": {
+      "address1": "12700 Trites Road",
+      "address2": "",
+      "address3": "",
+      "city": "Richmond",
+      "zip_code": "V7E 3R8",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "12700 Trites Road",
+        "Richmond, BC V7E 3R8",
+        "Canada"
+      ]
+    },
+    "phone": "+16042724225",
+    "display_phone": "+1 604-272-4225",
+    "distance": 13256.091757833377,
+    "business_hours": [],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "liked_by_vegans": null,
+      "hot_and_new": null
+    }
+  }
+]

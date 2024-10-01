@@ -1,0 +1,2688 @@
+[
+  {
+    "id": "skxkjlDMokPWIIK3NsSgkA",
+    "alias": "lotus-garden-express-langley",
+    "name": "Lotus Garden Express",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lotus-garden-express-langley?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vietnamese",
+        "title": "Vietnamese"
+      },
+      {
+        "alias": "chinese",
+        "title": "Chinese"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 49.1036046,
+      "longitude": -122.4922549362091
+    },
+    "transactions": [],
+    "location": {
+      "address1": "B-26426 56 Avenue",
+      "address2": "",
+      "address3": null,
+      "city": "Langley",
+      "zip_code": "V4W 3Z3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "B-26426 56 Avenue",
+        "Langley, BC V4W 3Z3",
+        "Canada"
+      ]
+    },
+    "phone": "+16048568855",
+    "display_phone": "+1 604-856-8855",
+    "distance": 3000.414369817973,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1900",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1500",
+            "end": "1900",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "https://lotusgardenexpress.weebly.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": "https://lotusgardenexpress.weebly.com/menu.html",
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegetarians": null,
+      "liked_by_vegans": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "OL6J-WBJZy2ibvtzOl3UPA",
+    "alias": "subway-langley-8",
+    "name": "Subway",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/psdqNAbnDgWeP0qMEzq1nQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/subway-langley-8?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      },
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      }
+    ],
+    "rating": 1.0,
+    "coordinates": {
+      "latitude": 49.1036758202699,
+      "longitude": -122.492096665486
+    },
+    "transactions": [],
+    "price": "$",
+    "location": {
+      "address1": "Gloucester Estates",
+      "address2": "26426 56th Avenue, Unit A",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "V4W 1J7",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "Gloucester Estates",
+        "26426 56th Avenue, Unit A",
+        "Langley, BC V4W 1J7",
+        "Canada"
+      ]
+    },
+    "phone": "+16048578886",
+    "display_phone": "+1 604-857-8886",
+    "distance": 3005.8650426976956,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1030",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1030",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1030",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2230",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "http://subway.ca/",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "none",
+      "ambience": {
+        "romantic": false,
+        "intimate": false,
+        "classy": false,
+        "hipster": false,
+        "divey": false,
+        "touristy": false,
+        "trendy": false,
+        "upscale": false,
+        "casual": false
+      },
+      "bike_parking": true,
+      "business_accepts_apple_pay": null,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": false,
+        "valet": false
+      },
+      "caters": true,
+      "dogs_allowed": null,
+      "drive_thru": true,
+      "good_for_kids": true,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": false,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "has_tv": true,
+      "menu_url": "http://w.subway.com/en-ca/menunutrition",
+      "noise_level": "average",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": true,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": false,
+      "restaurants_table_service": true,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": "no",
+      "outdoor_seating": true,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "Hs64spqDiwhD5o5GCVo9vg",
+    "alias": "yiftos-pizza-and-pasta-take-out-langley",
+    "name": "Yiftos Pizza and Pasta Take-Out",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/yiftos-pizza-and-pasta-take-out-langley?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 5.0,
+    "coordinates": {
+      "latitude": 49.1000532,
+      "longitude": -122.5374912
+    },
+    "transactions": [],
+    "location": {
+      "address1": "5395 248th St",
+      "address2": "",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "V4W 1C6",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "5395 248th St",
+        "Langley, BC V4W 1C6",
+        "Canada"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 2155.155579741723,
+    "business_hours": [],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "outdoor_seating": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "XQL5lBFR3QmdH0kaKiC1Kw",
+    "alias": "lucky-donair-langley-township",
+    "name": "Lucky Donair",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lucky-donair-langley-township?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "donairs",
+        "title": "Donairs"
+      },
+      {
+        "alias": "mideastern",
+        "title": "Middle Eastern"
+      },
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 49.10345413970822,
+      "longitude": -122.49212152023776
+    },
+    "transactions": [],
+    "location": {
+      "address1": "26426 56th Avenue",
+      "address2": "",
+      "address3": "",
+      "city": "Langley Township",
+      "zip_code": "V4W 3Z3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "26426 56th Avenue",
+        "Langley Township, BC V4W 3Z3",
+        "Canada"
+      ]
+    },
+    "phone": "+16043815959",
+    "display_phone": "+1 604-381-5959",
+    "distance": 3017.635070717638,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "good_for_working": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "ssBBeoZF1Cpz2R8uFVuutw",
+    "alias": "new-village-pizza-langley",
+    "name": "New Village Pizza",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/new-village-pizza-langley?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 49.10369,
+      "longitude": -122.53657
+    },
+    "transactions": [],
+    "location": {
+      "address1": "5590 248 Street",
+      "address2": "",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "V4W 1A9",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "5590 248 Street",
+        "Langley, BC V4W 1A9",
+        "Canada"
+      ]
+    },
+    "phone": "+16046070177",
+    "display_phone": "+1 604-607-0177",
+    "distance": 1754.0683793705773,
+    "business_hours": [],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "DA0xpMX0dm9Tpwt03lrh8Q",
+    "alias": "new-village-pizza-aldergrove",
+    "name": "New Village Pizza",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/new-village-pizza-aldergrove?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 49.1000204,
+      "longitude": -122.5371849
+    },
+    "transactions": [],
+    "location": {
+      "address1": "5395 248 Street",
+      "address2": "",
+      "address3": "",
+      "city": "Aldergrove",
+      "zip_code": "V4W 1C6",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "5395 248 Street",
+        "Aldergrove, BC V4W 1C6",
+        "Canada"
+      ]
+    },
+    "phone": "+16046070177",
+    "display_phone": "+1 604-607-0177",
+    "distance": 2153.888951808228,
+    "business_hours": [],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "Iqf2gZXRSSpQeUb8c6wsYA",
+    "alias": "colleens-cafe-aldergrove",
+    "name": "Colleen's Cafe",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t9QkBwDg-4mYVyL7sMbuUw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/colleens-cafe-aldergrove?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 11,
+    "categories": [
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 49.10324,
+      "longitude": -122.48425
+    },
+    "transactions": [],
+    "location": {
+      "address1": "26730 56 Avenue",
+      "address2": "",
+      "address3": "",
+      "city": "Aldergrove",
+      "zip_code": "V4W 3X5",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "26730 56 Avenue",
+        "Aldergrove, BC V4W 3X5",
+        "Canada"
+      ]
+    },
+    "phone": "+16048564948",
+    "display_phone": "+1 604-856-4948",
+    "distance": 1975.1447657059123,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "1500",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "1500",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "1500",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "1500",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "1500",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0730",
+            "end": "1400",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": {
+        "photo_id": "MlU084A7AXMc6V_i-DLvtQ",
+        "biz_user_id": null
+      },
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": "Experienced cook; loves to attempt new cuisines and can cook food with a variety of ingredients!",
+      "about_this_biz_bio_first_name": "Jenny",
+      "about_this_biz_bio_last_name": "L",
+      "about_this_biz_history": null,
+      "about_this_biz_role": "Business Owner",
+      "about_this_biz_specialties": "Need a breakfast, lunch, or catering? We're happy to do it, please call for details!",
+      "about_this_biz_year_established": "2000",
+      "accepted_cards": {
+        "credit": true,
+        "debit": null,
+        "none": false
+      },
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": true,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": true,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "liked_by_vegans": null,
+      "outdoor_seating": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "lDIKXXuLV0RbAlEAn4Jqzg",
+    "alias": "industrial-park-sandwich-works-aldergrove",
+    "name": "Industrial Park Sandwich Works",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7oGBQIUw02ixYUCSVp-bLg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/industrial-park-sandwich-works-aldergrove?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 8,
+    "categories": [
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      }
+    ],
+    "rating": 4.3,
+    "coordinates": {
+      "latitude": 49.102142,
+      "longitude": -122.486242
+    },
+    "transactions": [],
+    "price": "$",
+    "location": {
+      "address1": "26633 Gloucester Way",
+      "address2": "",
+      "address3": "",
+      "city": "Aldergrove",
+      "zip_code": "V4W 3L1",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "26633 Gloucester Way",
+        "Aldergrove, BC V4W 3L1",
+        "Canada"
+      ]
+    },
+    "phone": "+16046071130",
+    "display_phone": "+1 604-607-1130",
+    "distance": 1990.558139974533,
+    "business_hours": [],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": null,
+      "ambience": {
+        "hipster": false,
+        "casual": false,
+        "touristy": false,
+        "trendy": false,
+        "intimate": false,
+        "romantic": false,
+        "classy": true,
+        "upscale": false
+      },
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": false,
+        "valet": false
+      },
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": false,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "happy_hour": null,
+      "has_tv": true,
+      "menu_url": null,
+      "noise_level": "quiet",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": false,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "wxaKmCXx4tIEZBzie00a1g",
+    "alias": "mcdonalds-aldergrove",
+    "name": "McDonald's",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iHx2xWbu1ARzhb--3F-AcA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/mcdonalds-aldergrove?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 8,
+    "categories": [
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      },
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      },
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 2.0,
+    "coordinates": {
+      "latitude": 49.103489,
+      "longitude": -122.491602
+    },
+    "transactions": [],
+    "price": "$",
+    "location": {
+      "address1": "26454 56th Ave.",
+      "address2": "",
+      "address3": "",
+      "city": "Aldergrove",
+      "zip_code": "V4W 3V3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "26454 56th Ave.",
+        "Aldergrove, BC V4W 3V3",
+        "Canada"
+      ]
+    },
+    "phone": "+16046077580",
+    "display_phone": "+1 604-607-7580",
+    "distance": 1706.1313114060197,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "0000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "0000",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "0000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "https://www.mcdonalds.com/ca/en-ca.html",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": false,
+        "none": false,
+        "debit": false
+      },
+      "alcohol": "none",
+      "ambience": {
+        "romantic": false,
+        "intimate": false,
+        "classy": false,
+        "hipster": false,
+        "divey": false,
+        "touristy": false,
+        "trendy": false,
+        "upscale": false,
+        "casual": false
+      },
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": false,
+        "valet": false
+      },
+      "caters": false,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": true,
+      "good_for_meal": null,
+      "good_for_working": null,
+      "has_tv": true,
+      "menu_url": "http://www.mcdonalds.ca/ca/en/menu.html",
+      "noise_level": "average",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": true,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": false,
+      "restaurants_table_service": null,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": true,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "skxkjlDMokPWIIK3NsSgkA",
+    "alias": "lotus-garden-express-langley",
+    "name": "Lotus Garden Express",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lotus-garden-express-langley?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vietnamese",
+        "title": "Vietnamese"
+      },
+      {
+        "alias": "chinese",
+        "title": "Chinese"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 49.1036046,
+      "longitude": -122.4922549362091
+    },
+    "transactions": [],
+    "location": {
+      "address1": "B-26426 56 Avenue",
+      "address2": "",
+      "address3": null,
+      "city": "Langley",
+      "zip_code": "V4W 3Z3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "B-26426 56 Avenue",
+        "Langley, BC V4W 3Z3",
+        "Canada"
+      ]
+    },
+    "phone": "+16048568855",
+    "display_phone": "+1 604-856-8855",
+    "distance": 1680.506307366353,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1900",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1500",
+            "end": "1900",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "https://lotusgardenexpress.weebly.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": "https://lotusgardenexpress.weebly.com/menu.html",
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "outdoor_seating": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "OL6J-WBJZy2ibvtzOl3UPA",
+    "alias": "subway-langley-8",
+    "name": "Subway",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/psdqNAbnDgWeP0qMEzq1nQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/subway-langley-8?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      },
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      }
+    ],
+    "rating": 1.0,
+    "coordinates": {
+      "latitude": 49.1036758202699,
+      "longitude": -122.492096665486
+    },
+    "transactions": [],
+    "price": "$",
+    "location": {
+      "address1": "Gloucester Estates",
+      "address2": "26426 56th Avenue, Unit A",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "V4W 1J7",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "Gloucester Estates",
+        "26426 56th Avenue, Unit A",
+        "Langley, BC V4W 1J7",
+        "Canada"
+      ]
+    },
+    "phone": "+16048578886",
+    "display_phone": "+1 604-857-8886",
+    "distance": 1676.0093215163815,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1030",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1030",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1030",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2230",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "http://subway.ca/",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "none",
+      "ambience": {
+        "romantic": false,
+        "intimate": false,
+        "classy": false,
+        "hipster": false,
+        "divey": false,
+        "touristy": false,
+        "trendy": false,
+        "upscale": false,
+        "casual": false
+      },
+      "bike_parking": true,
+      "business_accepts_apple_pay": null,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": false,
+        "valet": false
+      },
+      "caters": true,
+      "dogs_allowed": null,
+      "drive_thru": true,
+      "good_for_kids": true,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": false,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "has_tv": true,
+      "menu_url": "http://w.subway.com/en-ca/menunutrition",
+      "noise_level": "average",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": true,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": false,
+      "restaurants_table_service": true,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": "no",
+      "outdoor_seating": true,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "ruLcOG5F888Y21VvBFBtbA",
+    "alias": "nellos-italian-pasta-bar-langley",
+    "name": "Nello's Italian Pasta Bar",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/nellos-italian-pasta-bar-langley?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 49.10324,
+      "longitude": -122.48425
+    },
+    "transactions": [],
+    "location": {
+      "address1": "26730 56 Avenue",
+      "address2": "",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "V4W 3X5",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "26730 56 Avenue",
+        "Langley, BC V4W 3X5",
+        "Canada"
+      ]
+    },
+    "phone": "+16046070225",
+    "display_phone": "+1 604-607-0225",
+    "distance": 1975.1447657059123,
+    "business_hours": [],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "XQL5lBFR3QmdH0kaKiC1Kw",
+    "alias": "lucky-donair-langley-township",
+    "name": "Lucky Donair",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lucky-donair-langley-township?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "donairs",
+        "title": "Donairs"
+      },
+      {
+        "alias": "mideastern",
+        "title": "Middle Eastern"
+      },
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 49.10345413970822,
+      "longitude": -122.49212152023776
+    },
+    "transactions": [],
+    "location": {
+      "address1": "26426 56th Avenue",
+      "address2": "",
+      "address3": "",
+      "city": "Langley Township",
+      "zip_code": "V4W 3Z3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "26426 56th Avenue",
+        "Langley Township, BC V4W 3Z3",
+        "Canada"
+      ]
+    },
+    "phone": "+16043815959",
+    "display_phone": "+1 604-381-5959",
+    "distance": 1699.2319463286874,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "good_for_working": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "KBc0aJD5bu-QR1h5LrYJvg",
+    "alias": "gloucester-tandoori-cafe-aldergrove",
+    "name": "Gloucester Tandoori Cafe",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/gloucester-tandoori-cafe-aldergrove?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "mideastern",
+        "title": "Middle Eastern"
+      },
+      {
+        "alias": "indpak",
+        "title": "Indian"
+      },
+      {
+        "alias": "pakistani",
+        "title": "Pakistani"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 49.1020676,
+      "longitude": -122.4863739
+    },
+    "transactions": [],
+    "location": {
+      "address1": "26633 Gloucester Way",
+      "address2": "",
+      "address3": "",
+      "city": "Aldergrove",
+      "zip_code": "V4W 3S8",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "26633 Gloucester Way",
+        "Aldergrove, BC V4W 3S8",
+        "Canada"
+      ]
+    },
+    "phone": "+16046070555",
+    "display_phone": "+1 604-607-0555",
+    "distance": 1981.7111285600436,
+    "business_hours": [],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegetarians": null,
+      "liked_by_vegans": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "Iqf2gZXRSSpQeUb8c6wsYA",
+    "alias": "colleens-cafe-aldergrove",
+    "name": "Colleen's Cafe",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t9QkBwDg-4mYVyL7sMbuUw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/colleens-cafe-aldergrove?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 11,
+    "categories": [
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 49.10324,
+      "longitude": -122.48425
+    },
+    "transactions": [],
+    "location": {
+      "address1": "26730 56 Avenue",
+      "address2": "",
+      "address3": "",
+      "city": "Aldergrove",
+      "zip_code": "V4W 3X5",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "26730 56 Avenue",
+        "Aldergrove, BC V4W 3X5",
+        "Canada"
+      ]
+    },
+    "phone": "+16048564948",
+    "display_phone": "+1 604-856-4948",
+    "distance": 1930.642664453373,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "1500",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "1500",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "1500",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "1500",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "1500",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0730",
+            "end": "1400",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": {
+        "photo_id": "MlU084A7AXMc6V_i-DLvtQ",
+        "biz_user_id": null
+      },
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": "Experienced cook; loves to attempt new cuisines and can cook food with a variety of ingredients!",
+      "about_this_biz_bio_first_name": "Jenny",
+      "about_this_biz_bio_last_name": "L",
+      "about_this_biz_history": null,
+      "about_this_biz_role": "Business Owner",
+      "about_this_biz_specialties": "Need a breakfast, lunch, or catering? We're happy to do it, please call for details!",
+      "about_this_biz_year_established": "2000",
+      "accepted_cards": {
+        "credit": true,
+        "debit": null,
+        "none": false
+      },
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": true,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": true,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "liked_by_vegans": null,
+      "outdoor_seating": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "lDIKXXuLV0RbAlEAn4Jqzg",
+    "alias": "industrial-park-sandwich-works-aldergrove",
+    "name": "Industrial Park Sandwich Works",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7oGBQIUw02ixYUCSVp-bLg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/industrial-park-sandwich-works-aldergrove?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 8,
+    "categories": [
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      }
+    ],
+    "rating": 4.3,
+    "coordinates": {
+      "latitude": 49.102142,
+      "longitude": -122.486242
+    },
+    "transactions": [],
+    "price": "$",
+    "location": {
+      "address1": "26633 Gloucester Way",
+      "address2": "",
+      "address3": "",
+      "city": "Aldergrove",
+      "zip_code": "V4W 3L1",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "26633 Gloucester Way",
+        "Aldergrove, BC V4W 3L1",
+        "Canada"
+      ]
+    },
+    "phone": "+16046071130",
+    "display_phone": "+1 604-607-1130",
+    "distance": 2142.331538265441,
+    "business_hours": [],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": null,
+      "ambience": {
+        "hipster": false,
+        "casual": false,
+        "touristy": false,
+        "trendy": false,
+        "intimate": false,
+        "romantic": false,
+        "classy": true,
+        "upscale": false
+      },
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": false,
+        "valet": false
+      },
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": false,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "happy_hour": null,
+      "has_tv": true,
+      "menu_url": null,
+      "noise_level": "quiet",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": false,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "wxaKmCXx4tIEZBzie00a1g",
+    "alias": "mcdonalds-aldergrove",
+    "name": "McDonald's",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iHx2xWbu1ARzhb--3F-AcA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/mcdonalds-aldergrove?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 8,
+    "categories": [
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      },
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      },
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 2.0,
+    "coordinates": {
+      "latitude": 49.103489,
+      "longitude": -122.491602
+    },
+    "transactions": [],
+    "price": "$",
+    "location": {
+      "address1": "26454 56th Ave.",
+      "address2": "",
+      "address3": "",
+      "city": "Aldergrove",
+      "zip_code": "V4W 3V3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "26454 56th Ave.",
+        "Aldergrove, BC V4W 3V3",
+        "Canada"
+      ]
+    },
+    "phone": "+16046077580",
+    "display_phone": "+1 604-607-7580",
+    "distance": 2271.208591170932,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "0000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "0000",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0500",
+            "end": "0000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "https://www.mcdonalds.com/ca/en-ca.html",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": false,
+        "none": false,
+        "debit": false
+      },
+      "alcohol": "none",
+      "ambience": {
+        "romantic": false,
+        "intimate": false,
+        "classy": false,
+        "hipster": false,
+        "divey": false,
+        "touristy": false,
+        "trendy": false,
+        "upscale": false,
+        "casual": false
+      },
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": false,
+        "valet": false
+      },
+      "caters": false,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": true,
+      "good_for_meal": null,
+      "good_for_working": null,
+      "has_tv": true,
+      "menu_url": "http://www.mcdonalds.ca/ca/en/menu.html",
+      "noise_level": "average",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": true,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": false,
+      "restaurants_table_service": null,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": true,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "skxkjlDMokPWIIK3NsSgkA",
+    "alias": "lotus-garden-express-langley",
+    "name": "Lotus Garden Express",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lotus-garden-express-langley?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vietnamese",
+        "title": "Vietnamese"
+      },
+      {
+        "alias": "chinese",
+        "title": "Chinese"
+      },
+      {
+        "alias": "seafood",
+        "title": "Seafood"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 49.1036046,
+      "longitude": -122.4922549362091
+    },
+    "transactions": [],
+    "location": {
+      "address1": "B-26426 56 Avenue",
+      "address2": "",
+      "address3": null,
+      "city": "Langley",
+      "zip_code": "V4W 3Z3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "B-26426 56 Avenue",
+        "Langley, BC V4W 3Z3",
+        "Canada"
+      ]
+    },
+    "phone": "+16048568855",
+    "display_phone": "+1 604-856-8855",
+    "distance": 2295.42465422769,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1900",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1500",
+            "end": "1900",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "https://lotusgardenexpress.weebly.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": "https://lotusgardenexpress.weebly.com/menu.html",
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "outdoor_seating": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "OL6J-WBJZy2ibvtzOl3UPA",
+    "alias": "subway-langley-8",
+    "name": "Subway",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/psdqNAbnDgWeP0qMEzq1nQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/subway-langley-8?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      },
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      }
+    ],
+    "rating": 1.0,
+    "coordinates": {
+      "latitude": 49.1036758202699,
+      "longitude": -122.492096665486
+    },
+    "transactions": [],
+    "price": "$",
+    "location": {
+      "address1": "Gloucester Estates",
+      "address2": "26426 56th Avenue, Unit A",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "V4W 1J7",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "Gloucester Estates",
+        "26426 56th Avenue, Unit A",
+        "Langley, BC V4W 1J7",
+        "Canada"
+      ]
+    },
+    "phone": "+16048578886",
+    "display_phone": "+1 604-857-8886",
+    "distance": 2281.6734247113027,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1030",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1030",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "1030",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2230",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "http://subway.ca/",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "none",
+      "ambience": {
+        "romantic": false,
+        "intimate": false,
+        "classy": false,
+        "hipster": false,
+        "divey": false,
+        "touristy": false,
+        "trendy": false,
+        "upscale": false,
+        "casual": false
+      },
+      "bike_parking": true,
+      "business_accepts_apple_pay": null,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": false,
+        "valet": false
+      },
+      "caters": true,
+      "dogs_allowed": null,
+      "drive_thru": true,
+      "good_for_kids": true,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": false,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "has_tv": true,
+      "menu_url": "http://w.subway.com/en-ca/menunutrition",
+      "noise_level": "average",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": true,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": false,
+      "restaurants_table_service": true,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": "no",
+      "outdoor_seating": true,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "ruLcOG5F888Y21VvBFBtbA",
+    "alias": "nellos-italian-pasta-bar-langley",
+    "name": "Nello's Italian Pasta Bar",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/nellos-italian-pasta-bar-langley?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 49.10324,
+      "longitude": -122.48425
+    },
+    "transactions": [],
+    "location": {
+      "address1": "26730 56 Avenue",
+      "address2": "",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "V4W 3X5",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "26730 56 Avenue",
+        "Langley, BC V4W 3X5",
+        "Canada"
+      ]
+    },
+    "phone": "+16046070225",
+    "display_phone": "+1 604-607-0225",
+    "distance": 1930.642664453373,
+    "business_hours": [],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "XQL5lBFR3QmdH0kaKiC1Kw",
+    "alias": "lucky-donair-langley-township",
+    "name": "Lucky Donair",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lucky-donair-langley-township?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "donairs",
+        "title": "Donairs"
+      },
+      {
+        "alias": "mideastern",
+        "title": "Middle Eastern"
+      },
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 49.10345413970822,
+      "longitude": -122.49212152023776
+    },
+    "transactions": [],
+    "location": {
+      "address1": "26426 56th Avenue",
+      "address2": "",
+      "address3": "",
+      "city": "Langley Township",
+      "zip_code": "V4W 3Z3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "26426 56th Avenue",
+        "Langley Township, BC V4W 3Z3",
+        "Canada"
+      ]
+    },
+    "phone": "+16043815959",
+    "display_phone": "+1 604-381-5959",
+    "distance": 2300.4216054344965,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1900",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "good_for_working": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "KBc0aJD5bu-QR1h5LrYJvg",
+    "alias": "gloucester-tandoori-cafe-aldergrove",
+    "name": "Gloucester Tandoori Cafe",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/gloucester-tandoori-cafe-aldergrove?adjust_creative=CdzPOEFz4FExHP9d2MIPpw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=CdzPOEFz4FExHP9d2MIPpw",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "mideastern",
+        "title": "Middle Eastern"
+      },
+      {
+        "alias": "indpak",
+        "title": "Indian"
+      },
+      {
+        "alias": "pakistani",
+        "title": "Pakistani"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 49.1020676,
+      "longitude": -122.4863739
+    },
+    "transactions": [],
+    "location": {
+      "address1": "26633 Gloucester Way",
+      "address2": "",
+      "address3": "",
+      "city": "Aldergrove",
+      "zip_code": "V4W 3S8",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "26633 Gloucester Way",
+        "Aldergrove, BC V4W 3S8",
+        "Canada"
+      ]
+    },
+    "phone": "+16046070555",
+    "display_phone": "+1 604-607-0555",
+    "distance": 2126.969464951774,
+    "business_hours": [],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "outdoor_seating": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  }
+]

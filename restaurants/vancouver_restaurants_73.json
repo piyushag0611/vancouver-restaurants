@@ -1,0 +1,167 @@
+[
+  {
+    "id": "agDBVpW9zPUK80oGUzo5og",
+    "alias": "lions-bay-general-store-and-caf\u00e9-lions-bay-5",
+    "name": "Lions Bay General Store & Caf\u00e9 ",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fZnVMS0TN-ehoqxAMF07bg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lions-bay-general-store-and-caf%C3%A9-lions-bay-5?adjust_creative=e8RJLN87VRsTc5tgv8Nz2A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=e8RJLN87VRsTc5tgv8Nz2A",
+    "review_count": 28,
+    "categories": [
+      {
+        "alias": "beer_and_wine",
+        "title": "Beer, Wine & Spirits"
+      },
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "convenience",
+        "title": "Convenience Stores"
+      }
+    ],
+    "rating": 3.9,
+    "coordinates": {
+      "latitude": 49.4596238,
+      "longitude": -123.2360317
+    },
+    "transactions": [],
+    "price": "$",
+    "location": {
+      "address1": "350 Centre Road",
+      "address2": "",
+      "address3": "",
+      "city": "Lions Bay",
+      "zip_code": "V0N 2E0",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "350 Centre Road",
+        "Lions Bay, BC V0N 2E0",
+        "Canada"
+      ]
+    },
+    "phone": "+16049216344",
+    "display_phone": "+1 604-921-6344",
+    "distance": 4919.167472999319,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0830",
+            "end": "1830",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0830",
+            "end": "1830",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0830",
+            "end": "1830",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0830",
+            "end": "1830",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0830",
+            "end": "1900",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0830",
+            "end": "1830",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0830",
+            "end": "1800",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_accepts_apple_pay": true,
+      "business_url": "http://www.lionsbay.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": "The Lions Bay General Store & Caf\u00e9 is a Sea to Sky icon offering great coffee & a seasonal menu with draft beer, wine & cider. The General Store now sells beer, wine & spirits.",
+      "about_this_biz_year_established": "1999",
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "beer_and_wine",
+      "ambience": {
+        "romantic": false,
+        "intimate": false,
+        "classy": false,
+        "hipster": false,
+        "divey": false,
+        "touristy": false,
+        "trendy": false,
+        "upscale": false,
+        "casual": false
+      },
+      "bike_parking": true,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": true,
+        "valet": false
+      },
+      "caters": false,
+      "dogs_allowed": true,
+      "drive_thru": false,
+      "good_for_kids": true,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": true,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "happy_hour": true,
+      "has_tv": true,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": false,
+      "restaurants_good_for_groups": false,
+      "restaurants_reservations": false,
+      "restaurants_table_service": false,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": true,
+      "hot_and_new": null
+    }
+  }
+]

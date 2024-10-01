@@ -1,0 +1,280 @@
+[
+  {
+    "id": "m1zqIgeSNSYg1E-p7kPq8Q",
+    "alias": "black-sheep-pub-maple-ridge-2",
+    "name": "Black Sheep Pub",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KSWloaTgnFVwMITqVuDnyg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/black-sheep-pub-maple-ridge-2?adjust_creative=e8RJLN87VRsTc5tgv8Nz2A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=e8RJLN87VRsTc5tgv8Nz2A",
+    "review_count": 65,
+    "categories": [
+      {
+        "alias": "pubs",
+        "title": "Pubs"
+      },
+      {
+        "alias": "tradamerican",
+        "title": "American"
+      }
+    ],
+    "rating": 3.9,
+    "coordinates": {
+      "latitude": 49.2375,
+      "longitude": -122.57898
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "12968 232 Street",
+      "address2": "",
+      "address3": "",
+      "city": "Maple Ridge",
+      "zip_code": "V2X 6V2",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "12968 232 Street",
+        "Maple Ridge, BC V2X 6V2",
+        "Canada"
+      ]
+    },
+    "phone": "+16044761008",
+    "display_phone": "+1 604-476-1008",
+    "distance": 9992.3543492451,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": true,
+            "start": "1100",
+            "end": "0100",
+            "day": 4
+          },
+          {
+            "is_overnight": true,
+            "start": "1100",
+            "end": "0100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "0000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_accepts_apple_pay": false,
+      "has_pool_table": false,
+      "business_url": "http://www.theblacksheeppub.ca",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": "1987",
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "full_bar",
+      "ambience": {
+        "hipster": null,
+        "casual": true,
+        "touristy": false,
+        "trendy": false,
+        "intimate": false,
+        "romantic": false,
+        "classy": null,
+        "upscale": false
+      },
+      "best_nights": {
+        "monday": false,
+        "tuesday": false,
+        "friday": true,
+        "wednesday": false,
+        "thursday": false,
+        "sunday": true,
+        "saturday": true
+      },
+      "bike_parking": true,
+      "business_parking": {
+        "garage": false,
+        "street": true,
+        "validated": false,
+        "lot": true,
+        "valet": false
+      },
+      "caters": true,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_dancing": null,
+      "good_for_kids": false,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": true,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "good_for_working": null,
+      "happy_hour": null,
+      "has_tv": true,
+      "menu_url": "http://theblacksheeppub.ca/menu",
+      "noise_level": "average",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": false,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": true,
+      "restaurants_table_service": null,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "liked_by_vegetarians": null,
+      "outdoor_seating": false,
+      "liked_by_vegans": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "22PRlzfK5CKlvWSp0q9U_w",
+    "alias": "otimo-brazilian-style-cheese-puffs-greater-vancouver",
+    "name": "Otimo Brazilian Style Cheese Puffs",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/otimo-brazilian-style-cheese-puffs-greater-vancouver?adjust_creative=e8RJLN87VRsTc5tgv8Nz2A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=e8RJLN87VRsTc5tgv8Nz2A",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "brazilian",
+        "title": "Brazilian"
+      },
+      {
+        "alias": "cheese",
+        "title": "Cheese Shops"
+      }
+    ],
+    "rating": 3.0,
+    "coordinates": {
+      "latitude": 49.0040118,
+      "longitude": -122.5149929
+    },
+    "transactions": [],
+    "location": {
+      "address1": "203-14301 256th Street",
+      "address2": "",
+      "address3": "",
+      "city": "Greater Vancouver",
+      "zip_code": "V4R 0B9",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "203-14301 256th Street",
+        "Greater Vancouver, BC V4R 0B9",
+        "Canada"
+      ]
+    },
+    "phone": "+16044758899",
+    "display_phone": "+1 604-475-8899",
+    "distance": 4932.471697916397,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1700",
+            "day": 0
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "http://www.otimo.ca",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": {
+        "hipster": false,
+        "casual": false,
+        "touristy": false,
+        "trendy": false,
+        "intimate": false,
+        "romantic": false,
+        "classy": true,
+        "upscale": false
+      },
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": "http://www.otimo.ca",
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  }
+]

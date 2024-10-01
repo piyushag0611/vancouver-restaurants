@@ -1,0 +1,2353 @@
+[
+  {
+    "id": "I7Nab7raqNaqHxPHnuR7Xw",
+    "alias": "bacchus-bistro-langley",
+    "name": "Bacchus Bistro",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AxECW7zRpNMecPY_g2dbZw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bacchus-bistro-langley?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 31,
+    "categories": [
+      {
+        "alias": "french",
+        "title": "French"
+      },
+      {
+        "alias": "bistros",
+        "title": "Bistros"
+      }
+    ],
+    "rating": 3.7,
+    "coordinates": {
+      "latitude": 49.0217138,
+      "longitude": -122.6249442
+    },
+    "transactions": [],
+    "price": "$$$",
+    "location": {
+      "address1": "1064 216 St",
+      "address2": "",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "V2Z 1R3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "1064 216 St",
+        "Langley, BC V2Z 1R3",
+        "Canada"
+      ]
+    },
+    "phone": "+16045309694",
+    "display_phone": "+1 604-530-9694",
+    "distance": 1853.1801379983224,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_accepts_apple_pay": false,
+      "business_url": "http://www.chabertonwinery.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": "Zagat rated 'Excellent' we are proud to be a part of Chaberton's history in Langley.",
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": "Located in South Langley, the Zagat rated Bacchus Bistro is part of local estate winery, Domaine de Chaberton. Serving authentic french bistro cuisine made with local ingredients paired with award winning 100% BC wines from Chaberton and Canoe Cove. Seasonal patio overlooking the vineyard. Combine a winery tour/tasting with a relaxing lunch or dinner. A mini vacation and only 45 minutes from Vancouver.",
+      "about_this_biz_year_established": "1991",
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "full_bar",
+      "ambience": {
+        "touristy": false,
+        "hipster": false,
+        "romantic": false,
+        "intimate": false,
+        "trendy": false,
+        "upscale": false,
+        "classy": false,
+        "casual": false
+      },
+      "bike_parking": true,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": true,
+        "valet": false
+      },
+      "caters": false,
+      "dogs_allowed": null,
+      "drive_thru": false,
+      "good_for_kids": false,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": true,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "happy_hour": null,
+      "has_tv": false,
+      "menu_url": "http://www.chabertonwinery.com/bacchus_bistro.php",
+      "noise_level": "average",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": "dressy",
+      "restaurants_delivery": false,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": true,
+      "restaurants_table_service": true,
+      "restaurants_take_out": false,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": true,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "I7Nab7raqNaqHxPHnuR7Xw",
+    "alias": "bacchus-bistro-langley",
+    "name": "Bacchus Bistro",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AxECW7zRpNMecPY_g2dbZw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bacchus-bistro-langley?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 31,
+    "categories": [
+      {
+        "alias": "french",
+        "title": "French"
+      },
+      {
+        "alias": "bistros",
+        "title": "Bistros"
+      }
+    ],
+    "rating": 3.7,
+    "coordinates": {
+      "latitude": 49.0217138,
+      "longitude": -122.6249442
+    },
+    "transactions": [],
+    "price": "$$$",
+    "location": {
+      "address1": "1064 216 St",
+      "address2": "",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "V2Z 1R3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "1064 216 St",
+        "Langley, BC V2Z 1R3",
+        "Canada"
+      ]
+    },
+    "phone": "+16045309694",
+    "display_phone": "+1 604-530-9694",
+    "distance": 1693.9544311830946,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_accepts_apple_pay": false,
+      "business_url": "http://www.chabertonwinery.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": "Zagat rated 'Excellent' we are proud to be a part of Chaberton's history in Langley.",
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": "Located in South Langley, the Zagat rated Bacchus Bistro is part of local estate winery, Domaine de Chaberton. Serving authentic french bistro cuisine made with local ingredients paired with award winning 100% BC wines from Chaberton and Canoe Cove. Seasonal patio overlooking the vineyard. Combine a winery tour/tasting with a relaxing lunch or dinner. A mini vacation and only 45 minutes from Vancouver.",
+      "about_this_biz_year_established": "1991",
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "full_bar",
+      "ambience": {
+        "touristy": false,
+        "hipster": false,
+        "romantic": false,
+        "intimate": false,
+        "trendy": false,
+        "upscale": false,
+        "classy": false,
+        "casual": false
+      },
+      "bike_parking": true,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": true,
+        "valet": false
+      },
+      "caters": false,
+      "dogs_allowed": null,
+      "drive_thru": false,
+      "good_for_kids": false,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": true,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "happy_hour": null,
+      "has_tv": false,
+      "menu_url": "http://www.chabertonwinery.com/bacchus_bistro.php",
+      "noise_level": "average",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": "dressy",
+      "restaurants_delivery": false,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": true,
+      "restaurants_table_service": true,
+      "restaurants_take_out": false,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "outdoor_seating": true,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "I7Nab7raqNaqHxPHnuR7Xw",
+    "alias": "bacchus-bistro-langley",
+    "name": "Bacchus Bistro",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AxECW7zRpNMecPY_g2dbZw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bacchus-bistro-langley?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 31,
+    "categories": [
+      {
+        "alias": "french",
+        "title": "French"
+      },
+      {
+        "alias": "bistros",
+        "title": "Bistros"
+      }
+    ],
+    "rating": 3.7,
+    "coordinates": {
+      "latitude": 49.0217138,
+      "longitude": -122.6249442
+    },
+    "transactions": [],
+    "price": "$$$",
+    "location": {
+      "address1": "1064 216 St",
+      "address2": "",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "V2Z 1R3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "1064 216 St",
+        "Langley, BC V2Z 1R3",
+        "Canada"
+      ]
+    },
+    "phone": "+16045309694",
+    "display_phone": "+1 604-530-9694",
+    "distance": 1179.0331442566273,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_accepts_apple_pay": false,
+      "business_url": "http://www.chabertonwinery.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": "Zagat rated 'Excellent' we are proud to be a part of Chaberton's history in Langley.",
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": "Located in South Langley, the Zagat rated Bacchus Bistro is part of local estate winery, Domaine de Chaberton. Serving authentic french bistro cuisine made with local ingredients paired with award winning 100% BC wines from Chaberton and Canoe Cove. Seasonal patio overlooking the vineyard. Combine a winery tour/tasting with a relaxing lunch or dinner. A mini vacation and only 45 minutes from Vancouver.",
+      "about_this_biz_year_established": "1991",
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "full_bar",
+      "ambience": {
+        "touristy": false,
+        "hipster": false,
+        "romantic": false,
+        "intimate": false,
+        "trendy": false,
+        "upscale": false,
+        "classy": false,
+        "casual": false
+      },
+      "bike_parking": true,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": true,
+        "valet": false
+      },
+      "caters": false,
+      "dogs_allowed": null,
+      "drive_thru": false,
+      "good_for_kids": false,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": true,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "happy_hour": null,
+      "has_tv": false,
+      "menu_url": "http://www.chabertonwinery.com/bacchus_bistro.php",
+      "noise_level": "average",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": "dressy",
+      "restaurants_delivery": false,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": true,
+      "restaurants_table_service": true,
+      "restaurants_take_out": false,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": true,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "c39MnpAN4_WkRfBEVqE6zg",
+    "alias": "glenwood-pizza-and-pasta-shop-langley",
+    "name": "Glenwood Pizza & Pasta Shop",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/doOhS8ByidVtsQdOMS4INQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/glenwood-pizza-and-pasta-shop-langley?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 14,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "alias": "italian",
+        "title": "Italian"
+      }
+    ],
+    "rating": 2.9,
+    "coordinates": {
+      "latitude": 49.04522,
+      "longitude": -122.66923
+    },
+    "transactions": [],
+    "location": {
+      "address1": "2390 200 Street",
+      "address2": "",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "V2Z 1W9",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "2390 200 Street",
+        "Langley, BC V2Z 1W9",
+        "Canada"
+      ]
+    },
+    "phone": "+16045301240",
+    "display_phone": "+1 604-530-1240",
+    "distance": 3260.5601564122626,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "https://glenwoodpizzapasta.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": {
+        "hipster": false,
+        "casual": false,
+        "touristy": false,
+        "trendy": false,
+        "intimate": false,
+        "romantic": false,
+        "classy": true,
+        "upscale": false
+      },
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": "https://glenwoodpizzapasta.com/menu/",
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "outdoor_seating": false,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "I7Nab7raqNaqHxPHnuR7Xw",
+    "alias": "bacchus-bistro-langley",
+    "name": "Bacchus Bistro",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AxECW7zRpNMecPY_g2dbZw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bacchus-bistro-langley?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 31,
+    "categories": [
+      {
+        "alias": "french",
+        "title": "French"
+      },
+      {
+        "alias": "bistros",
+        "title": "Bistros"
+      }
+    ],
+    "rating": 3.7,
+    "coordinates": {
+      "latitude": 49.0217138,
+      "longitude": -122.6249442
+    },
+    "transactions": [],
+    "price": "$$$",
+    "location": {
+      "address1": "1064 216 St",
+      "address2": "",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "V2Z 1R3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "1064 216 St",
+        "Langley, BC V2Z 1R3",
+        "Canada"
+      ]
+    },
+    "phone": "+16045309694",
+    "display_phone": "+1 604-530-9694",
+    "distance": 908.5588568399579,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_accepts_apple_pay": false,
+      "business_url": "http://www.chabertonwinery.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": "Zagat rated 'Excellent' we are proud to be a part of Chaberton's history in Langley.",
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": "Located in South Langley, the Zagat rated Bacchus Bistro is part of local estate winery, Domaine de Chaberton. Serving authentic french bistro cuisine made with local ingredients paired with award winning 100% BC wines from Chaberton and Canoe Cove. Seasonal patio overlooking the vineyard. Combine a winery tour/tasting with a relaxing lunch or dinner. A mini vacation and only 45 minutes from Vancouver.",
+      "about_this_biz_year_established": "1991",
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "full_bar",
+      "ambience": {
+        "touristy": false,
+        "hipster": false,
+        "romantic": false,
+        "intimate": false,
+        "trendy": false,
+        "upscale": false,
+        "classy": false,
+        "casual": false
+      },
+      "bike_parking": true,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": true,
+        "valet": false
+      },
+      "caters": false,
+      "dogs_allowed": null,
+      "drive_thru": false,
+      "good_for_kids": false,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": true,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "happy_hour": null,
+      "has_tv": false,
+      "menu_url": "http://www.chabertonwinery.com/bacchus_bistro.php",
+      "noise_level": "average",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": "dressy",
+      "restaurants_delivery": false,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": true,
+      "restaurants_table_service": true,
+      "restaurants_take_out": false,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "outdoor_seating": true,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "I7Nab7raqNaqHxPHnuR7Xw",
+    "alias": "bacchus-bistro-langley",
+    "name": "Bacchus Bistro",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AxECW7zRpNMecPY_g2dbZw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bacchus-bistro-langley?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 31,
+    "categories": [
+      {
+        "alias": "french",
+        "title": "French"
+      },
+      {
+        "alias": "bistros",
+        "title": "Bistros"
+      }
+    ],
+    "rating": 3.7,
+    "coordinates": {
+      "latitude": 49.0217138,
+      "longitude": -122.6249442
+    },
+    "transactions": [],
+    "price": "$$$",
+    "location": {
+      "address1": "1064 216 St",
+      "address2": "",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "V2Z 1R3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "1064 216 St",
+        "Langley, BC V2Z 1R3",
+        "Canada"
+      ]
+    },
+    "phone": "+16045309694",
+    "display_phone": "+1 604-530-9694",
+    "distance": 1991.2142091705007,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_accepts_apple_pay": false,
+      "business_url": "http://www.chabertonwinery.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": "Zagat rated 'Excellent' we are proud to be a part of Chaberton's history in Langley.",
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": "Located in South Langley, the Zagat rated Bacchus Bistro is part of local estate winery, Domaine de Chaberton. Serving authentic french bistro cuisine made with local ingredients paired with award winning 100% BC wines from Chaberton and Canoe Cove. Seasonal patio overlooking the vineyard. Combine a winery tour/tasting with a relaxing lunch or dinner. A mini vacation and only 45 minutes from Vancouver.",
+      "about_this_biz_year_established": "1991",
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "full_bar",
+      "ambience": {
+        "touristy": false,
+        "hipster": false,
+        "romantic": false,
+        "intimate": false,
+        "trendy": false,
+        "upscale": false,
+        "classy": false,
+        "casual": false
+      },
+      "bike_parking": true,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": true,
+        "valet": false
+      },
+      "caters": false,
+      "dogs_allowed": null,
+      "drive_thru": false,
+      "good_for_kids": false,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": true,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "happy_hour": null,
+      "has_tv": false,
+      "menu_url": "http://www.chabertonwinery.com/bacchus_bistro.php",
+      "noise_level": "average",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": "dressy",
+      "restaurants_delivery": false,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": true,
+      "restaurants_table_service": true,
+      "restaurants_take_out": false,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "outdoor_seating": true,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "c39MnpAN4_WkRfBEVqE6zg",
+    "alias": "glenwood-pizza-and-pasta-shop-langley",
+    "name": "Glenwood Pizza & Pasta Shop",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/doOhS8ByidVtsQdOMS4INQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/glenwood-pizza-and-pasta-shop-langley?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 14,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "alias": "italian",
+        "title": "Italian"
+      }
+    ],
+    "rating": 2.9,
+    "coordinates": {
+      "latitude": 49.04522,
+      "longitude": -122.66923
+    },
+    "transactions": [],
+    "location": {
+      "address1": "2390 200 Street",
+      "address2": "",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "V2Z 1W9",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "2390 200 Street",
+        "Langley, BC V2Z 1W9",
+        "Canada"
+      ]
+    },
+    "phone": "+16045301240",
+    "display_phone": "+1 604-530-1240",
+    "distance": 2282.828748983855,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "https://glenwoodpizzapasta.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": {
+        "hipster": false,
+        "casual": false,
+        "touristy": false,
+        "trendy": false,
+        "intimate": false,
+        "romantic": false,
+        "classy": true,
+        "upscale": false
+      },
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": "https://glenwoodpizzapasta.com/menu/",
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "outdoor_seating": false,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "Kggjcit-jEWGio7oVxcqJw",
+    "alias": "yummy-hope-bakery-langley-township-2",
+    "name": "Yummy Hope Bakery",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BhBqNnFEnwrc7ZDSQT3akw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/yummy-hope-bakery-langley-township-2?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      },
+      {
+        "alias": "bakeries",
+        "title": "Bakeries"
+      },
+      {
+        "alias": "cakeshop",
+        "title": "Patisserie/Cake Shop"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 49.055060715482675,
+      "longitude": -122.6643453
+    },
+    "transactions": [],
+    "location": {
+      "address1": "2915 202 Street",
+      "address2": null,
+      "address3": "",
+      "city": "Langley Township",
+      "zip_code": "V2Z 2B9",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "2915 202 Street",
+        "Langley Township, BC V2Z 2B9",
+        "Canada"
+      ]
+    },
+    "phone": "+16045006086",
+    "display_phone": "+1 604-500-6086",
+    "distance": 2700.3113399874214,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1530",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_accepts_apple_pay": true,
+      "business_url": "http://www.yummyhope.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": "Where It All Began\n\nFirst, I will share what God has allowed me to know and tell you a little history about me. My childhood was generally perfect and almost like any other girl. Still, when I grew up, my body was changing and reacting very differently from regular to hard food intolerances; I realized that I needed something different. Frankly, seeing people eat \u201cnormal\u201d but not me caused me to get depressed many times. As a result, I did plenty of research to find a cure and discovered unique diets which motivated me to make low-carb and gluten-free breads and desserts. Now, I see a lot of difference in my digestion and mood. So now, I am inspired to help people who do not have many options to take care of their health by eating delicious, nourishing desserts. Hence, it gives me great joy to cook those goodies with unique characteristics you can enjoy!",
+      "about_this_biz_bio_first_name": "Adriana ",
+      "about_this_biz_bio_last_name": "M",
+      "about_this_biz_history": "Yummy Hope Bakery was lovely created to help people who have struggled with diabetes, celiac disease and dairy intolerance to live a normal life with their loved ones, friends, colleagues, or strangers. Nowadays, many men and women just like me and you cannot eat conventional or quotidian healthy food without dealing with substances and ingredients that can affect their body permanently in many ways.",
+      "about_this_biz_role": "Business Owner",
+      "about_this_biz_specialties": "Gluten-Free, Vegan and Diabetes Friendly Desserts and Treats!",
+      "about_this_biz_year_established": "2020",
+      "accepted_cards": {
+        "credit": true,
+        "debit": true,
+        "none": false
+      },
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_parking": {
+        "valet": false,
+        "garage": true,
+        "street": true,
+        "lot": false,
+        "validated": false
+      },
+      "caters": true,
+      "dogs_allowed": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": "https://yummyhope.com/product-category/gluten-free-keto-bread/",
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": true,
+      "restaurants_delivery": true,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "service_locations_biz_dict": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "has_gluten_free": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "IykFrupDp9z2OGyL9jvmAw",
+    "alias": "ocean-park-pizza-and-steak-house-langley-2",
+    "name": "Ocean Park Pizza & Steak House",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9Gs9J0_jtadGaGEnR8kyDw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/ocean-park-pizza-and-steak-house-langley-2?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "greek",
+        "title": "Greek"
+      }
+    ],
+    "rating": 1.0,
+    "coordinates": {
+      "latitude": 49.0527353578896,
+      "longitude": -122.667811782008
+    },
+    "transactions": [],
+    "location": {
+      "address1": "",
+      "address2": "",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "Langley, BC",
+        "Canada"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 2682.037599355879,
+    "business_hours": [],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "I7Nab7raqNaqHxPHnuR7Xw",
+    "alias": "bacchus-bistro-langley",
+    "name": "Bacchus Bistro",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AxECW7zRpNMecPY_g2dbZw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bacchus-bistro-langley?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 31,
+    "categories": [
+      {
+        "alias": "french",
+        "title": "French"
+      },
+      {
+        "alias": "bistros",
+        "title": "Bistros"
+      }
+    ],
+    "rating": 3.7,
+    "coordinates": {
+      "latitude": 49.0217138,
+      "longitude": -122.6249442
+    },
+    "transactions": [],
+    "price": "$$$",
+    "location": {
+      "address1": "1064 216 St",
+      "address2": "",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "V2Z 1R3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "1064 216 St",
+        "Langley, BC V2Z 1R3",
+        "Canada"
+      ]
+    },
+    "phone": "+16045309694",
+    "display_phone": "+1 604-530-9694",
+    "distance": 1844.0306774402995,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1730",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "1500",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_accepts_apple_pay": false,
+      "business_url": "http://www.chabertonwinery.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": "Zagat rated 'Excellent' we are proud to be a part of Chaberton's history in Langley.",
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": "Located in South Langley, the Zagat rated Bacchus Bistro is part of local estate winery, Domaine de Chaberton. Serving authentic french bistro cuisine made with local ingredients paired with award winning 100% BC wines from Chaberton and Canoe Cove. Seasonal patio overlooking the vineyard. Combine a winery tour/tasting with a relaxing lunch or dinner. A mini vacation and only 45 minutes from Vancouver.",
+      "about_this_biz_year_established": "1991",
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "full_bar",
+      "ambience": {
+        "touristy": false,
+        "hipster": false,
+        "romantic": false,
+        "intimate": false,
+        "trendy": false,
+        "upscale": false,
+        "classy": false,
+        "casual": false
+      },
+      "bike_parking": true,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": true,
+        "valet": false
+      },
+      "caters": false,
+      "dogs_allowed": null,
+      "drive_thru": false,
+      "good_for_kids": false,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": true,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "happy_hour": null,
+      "has_tv": false,
+      "menu_url": "http://www.chabertonwinery.com/bacchus_bistro.php",
+      "noise_level": "average",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": "dressy",
+      "restaurants_delivery": false,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": true,
+      "restaurants_table_service": true,
+      "restaurants_take_out": false,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "outdoor_seating": true,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "c39MnpAN4_WkRfBEVqE6zg",
+    "alias": "glenwood-pizza-and-pasta-shop-langley",
+    "name": "Glenwood Pizza & Pasta Shop",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/doOhS8ByidVtsQdOMS4INQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/glenwood-pizza-and-pasta-shop-langley?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 14,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "alias": "italian",
+        "title": "Italian"
+      }
+    ],
+    "rating": 2.9,
+    "coordinates": {
+      "latitude": 49.04522,
+      "longitude": -122.66923
+    },
+    "transactions": [],
+    "location": {
+      "address1": "2390 200 Street",
+      "address2": "",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "V2Z 1W9",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "2390 200 Street",
+        "Langley, BC V2Z 1W9",
+        "Canada"
+      ]
+    },
+    "phone": "+16045301240",
+    "display_phone": "+1 604-530-1240",
+    "distance": 2100.053221112842,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1600",
+            "end": "2000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "https://glenwoodpizzapasta.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": {
+        "hipster": false,
+        "casual": false,
+        "touristy": false,
+        "trendy": false,
+        "intimate": false,
+        "romantic": false,
+        "classy": true,
+        "upscale": false
+      },
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": "https://glenwoodpizzapasta.com/menu/",
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "outdoor_seating": false,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "Kggjcit-jEWGio7oVxcqJw",
+    "alias": "yummy-hope-bakery-langley-township-2",
+    "name": "Yummy Hope Bakery",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BhBqNnFEnwrc7ZDSQT3akw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/yummy-hope-bakery-langley-township-2?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      },
+      {
+        "alias": "bakeries",
+        "title": "Bakeries"
+      },
+      {
+        "alias": "cakeshop",
+        "title": "Patisserie/Cake Shop"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 49.055060715482675,
+      "longitude": -122.6643453
+    },
+    "transactions": [],
+    "location": {
+      "address1": "2915 202 Street",
+      "address2": null,
+      "address3": "",
+      "city": "Langley Township",
+      "zip_code": "V2Z 2B9",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "2915 202 Street",
+        "Langley Township, BC V2Z 2B9",
+        "Canada"
+      ]
+    },
+    "phone": "+16045006086",
+    "display_phone": "+1 604-500-6086",
+    "distance": 1793.0657787151395,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "1700",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1530",
+            "day": 5
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_accepts_apple_pay": true,
+      "business_url": "http://www.yummyhope.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": "Where It All Began\n\nFirst, I will share what God has allowed me to know and tell you a little history about me. My childhood was generally perfect and almost like any other girl. Still, when I grew up, my body was changing and reacting very differently from regular to hard food intolerances; I realized that I needed something different. Frankly, seeing people eat \u201cnormal\u201d but not me caused me to get depressed many times. As a result, I did plenty of research to find a cure and discovered unique diets which motivated me to make low-carb and gluten-free breads and desserts. Now, I see a lot of difference in my digestion and mood. So now, I am inspired to help people who do not have many options to take care of their health by eating delicious, nourishing desserts. Hence, it gives me great joy to cook those goodies with unique characteristics you can enjoy!",
+      "about_this_biz_bio_first_name": "Adriana ",
+      "about_this_biz_bio_last_name": "M",
+      "about_this_biz_history": "Yummy Hope Bakery was lovely created to help people who have struggled with diabetes, celiac disease and dairy intolerance to live a normal life with their loved ones, friends, colleagues, or strangers. Nowadays, many men and women just like me and you cannot eat conventional or quotidian healthy food without dealing with substances and ingredients that can affect their body permanently in many ways.",
+      "about_this_biz_role": "Business Owner",
+      "about_this_biz_specialties": "Gluten-Free, Vegan and Diabetes Friendly Desserts and Treats!",
+      "about_this_biz_year_established": "2020",
+      "accepted_cards": {
+        "credit": true,
+        "debit": true,
+        "none": false
+      },
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_parking": {
+        "valet": false,
+        "garage": true,
+        "street": true,
+        "lot": false,
+        "validated": false
+      },
+      "caters": true,
+      "dogs_allowed": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": "https://yummyhope.com/product-category/gluten-free-keto-bread/",
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": true,
+      "restaurants_delivery": true,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "service_locations_biz_dict": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "has_gluten_free": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "NwbaYL5Ont036arwdB7WIw",
+    "alias": "ocean-park-pizza-and-steak-house-brookswood",
+    "name": "Ocean Park Pizza & Steak House",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WF4pCXHnb0XqftrwlSzCrw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/ocean-park-pizza-and-steak-house-brookswood?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 14,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 1.9,
+    "coordinates": {
+      "latitude": 49.0717882213362,
+      "longitude": -122.666961581045
+    },
+    "transactions": [],
+    "price": "$$$",
+    "location": {
+      "address1": "",
+      "address2": "Langley",
+      "address3": "",
+      "city": "Brookswood",
+      "zip_code": "V3A",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "Langley",
+        "Brookswood, BC V3A",
+        "Canada"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 3085.3050813245377,
+    "business_hours": [],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": false,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": true,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": null,
+      "restaurants_delivery": true,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegetarians": null,
+      "liked_by_vegans": null,
+      "outdoor_seating": false,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "IykFrupDp9z2OGyL9jvmAw",
+    "alias": "ocean-park-pizza-and-steak-house-langley-2",
+    "name": "Ocean Park Pizza & Steak House",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9Gs9J0_jtadGaGEnR8kyDw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/ocean-park-pizza-and-steak-house-langley-2?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "greek",
+        "title": "Greek"
+      }
+    ],
+    "rating": 1.0,
+    "coordinates": {
+      "latitude": 49.0527353578896,
+      "longitude": -122.667811782008
+    },
+    "transactions": [],
+    "location": {
+      "address1": "",
+      "address2": "",
+      "address3": "",
+      "city": "Langley",
+      "zip_code": "",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "Langley, BC",
+        "Canada"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 1975.4262578642495,
+    "business_hours": [],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "_FYDMgo7c-nsQG68eHHsbA",
+    "alias": "estate-grill-langley-3",
+    "name": "Estate Grill",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SZ4uKtwnosKHVvS2uq9ZvA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/estate-grill-langley-3?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "tradamerican",
+        "title": "American"
+      },
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      }
+    ],
+    "rating": 5.0,
+    "coordinates": {
+      "latitude": 49.070946,
+      "longitude": -122.535566
+    },
+    "transactions": [],
+    "location": {
+      "address1": "3834 248 Street",
+      "address2": null,
+      "address3": "Poppy Estate Public Golf Course",
+      "city": "Langley",
+      "zip_code": "V4W 2B3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "3834 248 Street",
+        "Poppy Estate Public Golf Course",
+        "Langley, BC V4W 2B3",
+        "Canada"
+      ]
+    },
+    "phone": "+16048561181",
+    "display_phone": "+1 604-856-1181",
+    "distance": 2835.030129943675,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1500",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1500",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1500",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1500",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1500",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0900",
+            "end": "1500",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "https://www.poppygolf.ca/restaurant",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": "Estate Grill, located at the beautiful Poppy Estate Golf Course, provides delicious casual eats! Great place to grab a cup of coffee to chat with neighbours and friends together or stop by for a hearty breakfast or lunch. Sit back and enjoy the beautiful scenery of the landscaped greens of the golf course! \n\nWe are open Tuesday Til Sunday, 9am-3pm. ",
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": "beer_and_wine",
+      "ambience": null,
+      "bike_parking": false,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": false,
+      "dogs_allowed": null,
+      "drive_thru": false,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": true,
+      "menu_url": "https://www.poppygolf.ca/_files/ugd/056901_24e1b3ebf2ab40dba94bf879faa6afec.pdf",
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": false,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": false,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "outdoor_seating": true,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "WRak0auppYExMzgFfXJvkQ",
+    "alias": "bento-sushi-langley-3",
+    "name": "Bento Sushi",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5oyIn0Y9IfTJQUBn6H0ONQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bento-sushi-langley-3?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "sushi",
+        "title": "Sushi Bars"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 49.06811,
+      "longitude": -122.53588
+    },
+    "transactions": [],
+    "location": {
+      "address1": "3650 248 Street",
+      "address2": "",
+      "address3": null,
+      "city": "Langley",
+      "zip_code": "V4W 1X7",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "3650 248 Street",
+        "Langley, BC V4W 1X7",
+        "Canada"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 2474.9996022330133,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2000",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2000",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2000",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2000",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2000",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2000",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "https://www.bentosushi.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "8dkbfTpuTt93fZAKDJ_HLw",
+    "alias": "pho-lange-vietnamese-restaurant-aldergrove",
+    "name": "Pho Lange Vietnamese Restaurant",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZDzp1h7vgbnX5w38JffTVw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/pho-lange-vietnamese-restaurant-aldergrove?adjust_creative=m1OhStv_gXTx_YbfUqO6JQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=m1OhStv_gXTx_YbfUqO6JQ",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vietnamese",
+        "title": "Vietnamese"
+      }
+    ],
+    "rating": 0.0,
+    "coordinates": {
+      "latitude": 49.06669,
+      "longitude": -122.52117
+    },
+    "transactions": [],
+    "location": {
+      "address1": "25361 Fraser Hwy",
+      "address2": "",
+      "address3": "",
+      "city": "Aldergrove",
+      "zip_code": "V4W 1Z9",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "25361 Fraser Hwy",
+        "Aldergrove, BC V4W 1Z9",
+        "Canada"
+      ]
+    },
+    "phone": "+16048568026",
+    "display_phone": "+1 604-856-8026",
+    "distance": 3091.877005154603,
+    "business_hours": [],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "outdoor_seating": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  }
+]

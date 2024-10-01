@@ -1,0 +1,151 @@
+[
+  {
+    "id": "sgHUpqUhltUTI1d-I7jdyQ",
+    "alias": "the-rock-chute-inn-north-vancouver-2",
+    "name": "The Rock Chute Inn",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dSJE2i903BB4XKqdne-7Fw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-rock-chute-inn-north-vancouver-2?adjust_creative=e8RJLN87VRsTc5tgv8Nz2A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=e8RJLN87VRsTc5tgv8Nz2A",
+    "review_count": 14,
+    "categories": [
+      {
+        "alias": "newcanadian",
+        "title": "Canadian (New)"
+      }
+    ],
+    "rating": 3.1,
+    "coordinates": {
+      "latitude": 49.365495,
+      "longitude": -122.948262
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "1700 Mount Seymour Road",
+      "address2": "",
+      "address3": "",
+      "city": "North Vancouver",
+      "zip_code": "V7H 1G5",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "1700 Mount Seymour Road",
+        "North Vancouver, BC V7H 1G5",
+        "Canada"
+      ]
+    },
+    "phone": "+16049862261",
+    "display_phone": "+1 604-986-2261",
+    "distance": 5200.6815804212165,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 0
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 1
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 2
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 3
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 4
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 5
+          },
+          {
+            "is_overnight": true,
+            "start": "0000",
+            "end": "0000",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": true
+      }
+    ],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": true,
+        "debit": true,
+        "none": false
+      },
+      "alcohol": null,
+      "ambience": {
+        "hipster": null,
+        "casual": null,
+        "touristy": null,
+        "trendy": null,
+        "intimate": null,
+        "romantic": null,
+        "classy": null,
+        "upscale": false
+      },
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": {
+        "valet": false,
+        "garage": false,
+        "street": false,
+        "lot": true,
+        "validated": false
+      },
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": "no",
+      "outdoor_seating": true,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  }
+]

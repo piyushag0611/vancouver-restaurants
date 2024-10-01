@@ -1,0 +1,1818 @@
+[
+  {
+    "id": "XTiA4yir88Pc1WmDOXMdxw",
+    "alias": "sushi-boss-coquitlam",
+    "name": "Sushi Boss",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tQT8YWt60mHVcKydV2gDaQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sushi-boss-coquitlam?adjust_creative=e8RJLN87VRsTc5tgv8Nz2A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=e8RJLN87VRsTc5tgv8Nz2A",
+    "review_count": 35,
+    "categories": [
+      {
+        "alias": "sushi",
+        "title": "Sushi Bars"
+      },
+      {
+        "alias": "japanese",
+        "title": "Japanese"
+      }
+    ],
+    "rating": 4.1,
+    "coordinates": {
+      "latitude": 49.2986583,
+      "longitude": -122.7872987
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "3033 Robson Drive",
+      "address2": "Suite 103",
+      "address3": "",
+      "city": "Coquitlam",
+      "zip_code": "V3E 2Z4",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "3033 Robson Drive",
+        "Suite 103",
+        "Coquitlam, BC V3E 2Z4",
+        "Canada"
+      ]
+    },
+    "phone": "+16044741261",
+    "display_phone": "+1 604-474-1261",
+    "distance": 8487.43741667846,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2030",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2030",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2030",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2100",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2030",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "http://sushiboss.blogspot.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "none",
+      "ambience": {
+        "touristy": false,
+        "hipster": false,
+        "romantic": null,
+        "intimate": false,
+        "trendy": false,
+        "upscale": false,
+        "classy": true,
+        "casual": true
+      },
+      "bike_parking": true,
+      "business_accepts_apple_pay": null,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": false,
+        "valet": false
+      },
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": true,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": false,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "happy_hour": null,
+      "has_tv": true,
+      "menu_url": null,
+      "noise_level": "quiet",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": "casual",
+      "restaurants_delivery": true,
+      "restaurants_good_for_groups": false,
+      "restaurants_reservations": true,
+      "restaurants_table_service": true,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "liked_by_vegans": null,
+      "outdoor_seating": true,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "HSZGiyNrjgwA9eNhSDQFQg",
+    "alias": "plateau-pizza-coquitlam",
+    "name": "Plateau Pizza",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DVK8HAbnZuTf1MJQuAV5ug/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/plateau-pizza-coquitlam?adjust_creative=e8RJLN87VRsTc5tgv8Nz2A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=e8RJLN87VRsTc5tgv8Nz2A",
+    "review_count": 36,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      }
+    ],
+    "rating": 4.1,
+    "coordinates": {
+      "latitude": 49.29645485179912,
+      "longitude": -122.8035690031019
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "C10-1410 Parkway Boulevard",
+      "address2": "",
+      "address3": "",
+      "city": "Coquitlam",
+      "zip_code": "V3E 3J7",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "C10-1410 Parkway Boulevard",
+        "Coquitlam, BC V3E 3J7",
+        "Canada"
+      ]
+    },
+    "phone": "+16045528812",
+    "display_phone": "+1 604-552-8812",
+    "distance": 9459.784502829913,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1530",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1530",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1530",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1530",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1500",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1500",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1530",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "http://www.plateaupizza.com/",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "none",
+      "ambience": {
+        "hipster": false,
+        "casual": false,
+        "touristy": false,
+        "trendy": false,
+        "intimate": false,
+        "romantic": false,
+        "classy": true,
+        "upscale": false
+      },
+      "bike_parking": true,
+      "business_accepts_apple_pay": null,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": false,
+        "valet": false
+      },
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": true,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": true,
+      "menu_url": "https://www.plateaupizza.com/menu",
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": true,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": false,
+      "restaurants_table_service": null,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "liked_by_vegans": true,
+      "liked_by_vegetarians": false,
+      "outdoor_seating": false,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "C-ddZ2lcotmzqf-grZbs1w",
+    "alias": "camion-cafe-vancouver",
+    "name": "Camion Cafe",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ta1bMv51slSo4g1JjbzS4w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/camion-cafe-vancouver?adjust_creative=e8RJLN87VRsTc5tgv8Nz2A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=e8RJLN87VRsTc5tgv8Nz2A",
+    "review_count": 9,
+    "categories": [
+      {
+        "alias": "foodtrucks",
+        "title": "Food Trucks"
+      },
+      {
+        "alias": "vietnamese",
+        "title": "Vietnamese"
+      },
+      {
+        "alias": "catering",
+        "title": "Caterers"
+      }
+    ],
+    "rating": 4.8,
+    "coordinates": {
+      "latitude": 49.26253,
+      "longitude": -123.08995
+    },
+    "transactions": [],
+    "location": {
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "city": "Vancouver",
+      "zip_code": "V5T 1X7",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "Vancouver, BC V5T 1X7",
+        "Canada"
+      ]
+    },
+    "phone": "+12364121119",
+    "display_phone": "+1 236-412-1119",
+    "distance": 29330.686193549212,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1500",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1500",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "1500",
+            "day": 3
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_accepts_apple_pay": true,
+      "business_url": "https://www.camioncafe.com",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": "Camion Cafe - Vancouver Food Truck - Vietnamese Cuisine\nOnline Ordering Available\nCheck out our schedule/website/catering",
+      "about_this_biz_bio_first_name": "Camion",
+      "about_this_biz_bio_last_name": "C",
+      "about_this_biz_history": "Whether you wanna book our food trailer to your private events or have our B\u00e1nh M\u00ec and C\u00e0 Ph\u00ea catering to the site. Reach out to us, we'd love to cook for you!\n",
+      "about_this_biz_role": "Business Owner",
+      "about_this_biz_specialties": "Find and follow our Food Truck on our Website and on Instagram. We are proud to offer Catering for your next party, event, or corporate luncheon as well. We look forward to hearing from you!",
+      "about_this_biz_year_established": "2021",
+      "accepted_cards": {
+        "credit": true,
+        "debit": true,
+        "none": false
+      },
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_parking": null,
+      "dogs_allowed": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": "https://www.camioncafe.com/menu",
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "service_locations_biz_dict": {
+        "user_specified_locations": [
+          {
+            "max_latitude": 49.3140784966881,
+            "min_longitude": -123.224220806569,
+            "display": "Vancouver, BC",
+            "longitude": -123.10784044343814,
+            "latitude": 49.248610493484726,
+            "state": "BC",
+            "address1": "",
+            "accuracy": 4,
+            "address2": "",
+            "entity_id": 1279,
+            "unformatted": "Vancouver, BC",
+            "max_longitude": -123.022936526096,
+            "zip": "",
+            "min_latitude": 49.1985348979552,
+            "city": "Vancouver",
+            "provenance": "YELP_GEOCODING_ENGINE",
+            "country": "CA",
+            "address3": "",
+            "borough": "",
+            "county": null,
+            "isGoogleHood": false,
+            "language": null,
+            "neighborhood": "",
+            "polygons": null,
+            "usingDefaultZip": false,
+            "confident": null
+          },
+          {
+            "city": "Burnaby",
+            "unformatted": "Burnaby, BC",
+            "min_latitude": 49.1801598923103,
+            "latitude": 49.24562737066421,
+            "country": "CA",
+            "max_latitude": 49.2952837922543,
+            "max_longitude": -122.892448290041,
+            "display": "Burnaby, BC",
+            "entity_id": 1807,
+            "longitude": -122.96523096004616,
+            "provenance": "YELP_GEOCODING_ENGINE",
+            "address1": "",
+            "min_longitude": -123.02371032367,
+            "accuracy": 4,
+            "state": "BC",
+            "zip": "",
+            "address2": "",
+            "address3": "",
+            "borough": "",
+            "county": null,
+            "isGoogleHood": false,
+            "language": null,
+            "neighborhood": "",
+            "polygons": null,
+            "usingDefaultZip": false,
+            "confident": null
+          },
+          {
+            "min_longitude": -122.959951341009,
+            "provenance": "YELP_GEOCODING_ENGINE",
+            "address2": "",
+            "latitude": 49.208086454881965,
+            "min_latitude": 49.1751718811177,
+            "state": "BC",
+            "max_longitude": -122.875034714065,
+            "longitude": -122.9192759196804,
+            "display": "New Westminster, BC",
+            "country": "CA",
+            "entity_id": 4262,
+            "max_latitude": 49.2380491659979,
+            "zip": "",
+            "unformatted": "New Westminster, BC",
+            "accuracy": 4,
+            "address1": "",
+            "city": "New Westminster",
+            "address3": "",
+            "borough": "",
+            "county": null,
+            "isGoogleHood": false,
+            "language": null,
+            "neighborhood": "",
+            "polygons": null,
+            "usingDefaultZip": false,
+            "confident": null
+          },
+          {
+            "display": "Coquitlam, BC",
+            "min_latitude": 49.2193301959339,
+            "address2": "",
+            "state": "BC",
+            "entity_id": 3022,
+            "max_latitude": 49.3516257265532,
+            "accuracy": 4,
+            "longitude": -122.77143311575375,
+            "address1": "",
+            "country": "CA",
+            "max_longitude": -122.618180282773,
+            "unformatted": "Coquitlam, BC",
+            "provenance": "YELP_GEOCODING_ENGINE",
+            "min_longitude": -122.893424316887,
+            "latitude": 49.29733111702251,
+            "city": "Coquitlam",
+            "zip": "",
+            "address3": "",
+            "borough": "",
+            "county": null,
+            "isGoogleHood": false,
+            "language": null,
+            "neighborhood": "",
+            "polygons": null,
+            "usingDefaultZip": false,
+            "confident": null
+          }
+        ],
+        "additional_locations": [
+          {
+            "zip": "",
+            "accuracy": 4,
+            "provenance": "GOOGLE",
+            "address2": "",
+            "address1": "",
+            "latitude": 49.314625,
+            "min_latitude": 49.2994026,
+            "state": "BC",
+            "country": "CA",
+            "city": "Anmore",
+            "unformatted": "Anmore, BC, Canada",
+            "display": "Anmore, BC",
+            "max_latitude": 49.382047,
+            "county": "Metro Vancouver",
+            "max_longitude": -122.8226099,
+            "longitude": -122.8556688,
+            "min_longitude": -122.8924939,
+            "address3": "",
+            "borough": "",
+            "entity_id": null,
+            "isGoogleHood": false,
+            "language": null,
+            "neighborhood": "",
+            "polygons": null,
+            "usingDefaultZip": false,
+            "confident": null
+          },
+          {
+            "display": "North Vancouver, BC",
+            "min_latitude": 49.2982165034546,
+            "address2": "",
+            "state": "BC",
+            "entity_id": 2210,
+            "max_latitude": 49.3357311879988,
+            "accuracy": 4,
+            "longitude": -123.06994602783101,
+            "address1": "",
+            "country": "CA",
+            "max_longitude": -123.038150075378,
+            "unformatted": "North Vancouver, BC, Canada",
+            "provenance": "YELP_GEOCODING_ENGINE",
+            "min_longitude": -123.102405656367,
+            "latitude": 49.320177042566094,
+            "city": "North Vancouver",
+            "zip": "",
+            "address3": "",
+            "borough": "",
+            "county": null,
+            "isGoogleHood": false,
+            "language": null,
+            "neighborhood": "",
+            "polygons": null,
+            "usingDefaultZip": false,
+            "confident": null
+          },
+          {
+            "address1": "",
+            "latitude": 49.27198668491211,
+            "country": "CA",
+            "longitude": -122.66372581857487,
+            "min_longitude": -122.768128597047,
+            "entity_id": 125085,
+            "unformatted": "Pitt Meadows, BC, Canada",
+            "provenance": "YELP_GEOCODING_ENGINE",
+            "state": "BC",
+            "max_latitude": 49.3531252959266,
+            "max_longitude": -122.575397802137,
+            "min_latitude": 49.1962264061077,
+            "city": "Pitt Meadows",
+            "zip": "",
+            "display": "Pitt Meadows, BC",
+            "accuracy": 4,
+            "address2": "",
+            "address3": "",
+            "borough": "",
+            "county": null,
+            "isGoogleHood": false,
+            "language": null,
+            "neighborhood": "",
+            "polygons": null,
+            "usingDefaultZip": false,
+            "confident": null
+          },
+          {
+            "max_latitude": 49.2893341162742,
+            "min_longitude": -122.807355295541,
+            "display": "Port Coquitlam, BC",
+            "longitude": -122.76191002501477,
+            "latitude": 49.253343222217545,
+            "state": "BC",
+            "address1": "",
+            "accuracy": 4,
+            "address2": "",
+            "entity_id": 125083,
+            "unformatted": "Port Coquitlam, BC, Canada",
+            "max_longitude": -122.704490895265,
+            "zip": "",
+            "min_latitude": 49.213381215082,
+            "city": "Port Coquitlam",
+            "provenance": "YELP_GEOCODING_ENGINE",
+            "country": "CA",
+            "address3": "",
+            "borough": "",
+            "county": null,
+            "isGoogleHood": false,
+            "language": null,
+            "neighborhood": "",
+            "polygons": null,
+            "usingDefaultZip": false,
+            "confident": null
+          },
+          {
+            "address1": "",
+            "provenance": "GOOGLE",
+            "zip": "",
+            "accuracy": 4,
+            "min_latitude": 49.27038,
+            "unformatted": "Port Moody, BC, Canada",
+            "address2": "",
+            "latitude": 49.2849107,
+            "state": "BC",
+            "max_latitude": 49.330148,
+            "display": "Port Moody, BC",
+            "country": "CA",
+            "min_longitude": -122.939695,
+            "longitude": -122.8677562,
+            "max_longitude": -122.8210819,
+            "county": "Metro Vancouver",
+            "city": "Port Moody",
+            "address3": "",
+            "borough": "",
+            "entity_id": null,
+            "isGoogleHood": false,
+            "language": null,
+            "neighborhood": "",
+            "polygons": null,
+            "usingDefaultZip": false,
+            "confident": null
+          }
+        ],
+        "convex_hull_latlng": [
+          {
+            "latitude": 49.1985348979552,
+            "longitude": -123.224220806569
+          },
+          {
+            "latitude": 49.1801598923103,
+            "longitude": -123.02371032367
+          },
+          {
+            "latitude": 49.1751718811177,
+            "longitude": -122.959951341009
+          },
+          {
+            "latitude": 49.1751718811177,
+            "longitude": -122.875034714065
+          },
+          {
+            "latitude": 49.2193301959339,
+            "longitude": -122.618180282773
+          },
+          {
+            "latitude": 49.3516257265532,
+            "longitude": -122.618180282773
+          },
+          {
+            "latitude": 49.3516257265532,
+            "longitude": -122.893424316887
+          },
+          {
+            "latitude": 49.3140784966881,
+            "longitude": -123.224220806569
+          },
+          {
+            "latitude": 49.1985348979552,
+            "longitude": -123.224220806569
+          }
+        ]
+      },
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": false,
+      "liked_by_vegans": true,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "lZS_jyfOC-auevtdf3TG9g",
+    "alias": "hiraku-sushi-coquitlam",
+    "name": "Hiraku Sushi",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SPxuWy_YqSpPp7KubQtVzQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/hiraku-sushi-coquitlam?adjust_creative=e8RJLN87VRsTc5tgv8Nz2A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=e8RJLN87VRsTc5tgv8Nz2A",
+    "review_count": 46,
+    "categories": [
+      {
+        "alias": "japanese",
+        "title": "Japanese"
+      },
+      {
+        "alias": "sushi",
+        "title": "Sushi Bars"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 49.29274344548477,
+      "longitude": -122.75552295086112
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "3380 David Avenue",
+      "address2": "Suite 101",
+      "address3": "",
+      "city": "Coquitlam",
+      "zip_code": "V3E 3G8",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "3380 David Avenue",
+        "Suite 101",
+        "Coquitlam, BC V3E 3G8",
+        "Canada"
+      ]
+    },
+    "phone": "+16044752754",
+    "display_phone": "+1 604-475-2754",
+    "distance": 7832.85668652825,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2130",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2130",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2130",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2130",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_accepts_apple_pay": false,
+      "business_url": "http://www.hirakusushi.ca",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "beer_and_wine",
+      "ambience": {
+        "romantic": false,
+        "intimate": false,
+        "classy": false,
+        "hipster": false,
+        "divey": false,
+        "touristy": false,
+        "trendy": false,
+        "upscale": false,
+        "casual": true
+      },
+      "bike_parking": true,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": true,
+        "valet": false
+      },
+      "caters": true,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": true,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": true,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "happy_hour": null,
+      "has_tv": false,
+      "menu_url": "https://menuone.ca/menu-hiraku-sushi",
+      "noise_level": "average",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": "casual",
+      "restaurants_delivery": false,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": true,
+      "restaurants_table_service": true,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": "no",
+      "liked_by_vegetarians": null,
+      "outdoor_seating": false,
+      "liked_by_vegans": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "JAQfZrfnjHooj9BONrEKsQ",
+    "alias": "ibex-cafe-and-kitchen-coquitlam",
+    "name": "Ibex Cafe And Kitchen",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pQM-L6SnaSdQb92SPiV-7A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/ibex-cafe-and-kitchen-coquitlam?adjust_creative=e8RJLN87VRsTc5tgv8Nz2A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=e8RJLN87VRsTc5tgv8Nz2A",
+    "review_count": 7,
+    "categories": [
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "bakeries",
+        "title": "Bakeries"
+      }
+    ],
+    "rating": 3.9,
+    "coordinates": {
+      "latitude": 49.29492858174979,
+      "longitude": -122.74078297452256
+    },
+    "transactions": [],
+    "location": {
+      "address1": "3537 Princeton Avenue",
+      "address2": "",
+      "address3": "Burke Mountain Community",
+      "city": "Coquitlam",
+      "zip_code": "V3E 0K3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "3537 Princeton Avenue",
+        "Burke Mountain Community",
+        "Coquitlam, BC V3E 0K3",
+        "Canada"
+      ]
+    },
+    "phone": "+16044744239",
+    "display_phone": "+1 604-474-4239",
+    "distance": 7237.729093384854,
+    "business_hours": [],
+    "attributes": {
+      "business_url": "http://cafeibex.ca",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": null,
+        "debit": null,
+        "none": false
+      },
+      "alcohol": null,
+      "ambience": {
+        "hipster": false,
+        "casual": false,
+        "touristy": false,
+        "trendy": false,
+        "intimate": false,
+        "romantic": false,
+        "classy": true,
+        "upscale": false
+      },
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": "https://www.cafeibex.ca/menu",
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "service_locations_biz_dict": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "has_gluten_free": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": true,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "VjeZ6RWDlyO1Aup6FPIzkw",
+    "alias": "fairways-grill-and-patio-coquitlam",
+    "name": "Fairways Grill & Patio",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bvGKcPWCytTE3JDUFLrk9g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/fairways-grill-and-patio-coquitlam?adjust_creative=e8RJLN87VRsTc5tgv8Nz2A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=e8RJLN87VRsTc5tgv8Nz2A",
+    "review_count": 15,
+    "categories": [
+      {
+        "alias": "newcanadian",
+        "title": "Canadian (New)"
+      }
+    ],
+    "rating": 3.2,
+    "coordinates": {
+      "latitude": 49.30578,
+      "longitude": -122.80557
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "Westwood Plateau",
+      "address2": "1630 Parkway Boulevard",
+      "address3": "",
+      "city": "Coquitlam",
+      "zip_code": "V3E 2Y5",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "Westwood Plateau",
+        "1630 Parkway Boulevard",
+        "Coquitlam, BC V3E 2Y5",
+        "Canada"
+      ]
+    },
+    "phone": "+16049414219",
+    "display_phone": "+1 604-941-4219",
+    "distance": 8842.602357855709,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2100",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1000",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_accepts_apple_pay": true,
+      "business_url": "https://www.westwoodplateaugolf.com/restaurants/fairways-grill-patio/",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": true,
+        "debit": true,
+        "none": false
+      },
+      "alcohol": "full_bar",
+      "ambience": {
+        "touristy": false,
+        "hipster": false,
+        "romantic": false,
+        "intimate": false,
+        "trendy": false,
+        "upscale": false,
+        "classy": false,
+        "casual": false
+      },
+      "bike_parking": null,
+      "business_parking": {
+        "valet": false,
+        "garage": false,
+        "street": false,
+        "lot": true,
+        "validated": false
+      },
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": false,
+      "good_for_kids": true,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": false,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "happy_hour": null,
+      "has_tv": true,
+      "menu_url": "",
+      "noise_level": "quiet",
+      "open24_hours": null,
+      "platform_delivery": true,
+      "restaurants_delivery": false,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": true,
+      "restaurants_table_service": true,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": false,
+      "outdoor_seating": true,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "AkhzXQnNDv-DgMfc1k6WoA",
+    "alias": "rogues-bar-and-grill-coquitlam",
+    "name": "Rogues Bar &  Grill",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XC9flB0-h733X_X5JMKMQg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/rogues-bar-and-grill-coquitlam?adjust_creative=e8RJLN87VRsTc5tgv8Nz2A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=e8RJLN87VRsTc5tgv8Nz2A",
+    "review_count": 11,
+    "categories": [
+      {
+        "alias": "tradamerican",
+        "title": "American"
+      }
+    ],
+    "rating": 3.9,
+    "coordinates": {
+      "latitude": 49.3062789878786,
+      "longitude": -122.78926089406
+    },
+    "transactions": [],
+    "price": "$$",
+    "location": {
+      "address1": "3251 Plateau Boulevard",
+      "address2": "",
+      "address3": "",
+      "city": "Coquitlam",
+      "zip_code": "V3E 2Y8",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "3251 Plateau Boulevard",
+        "Coquitlam, BC V3E 2Y8",
+        "Canada"
+      ]
+    },
+    "phone": "+16049454007",
+    "display_phone": "+1 604-945-4007",
+    "distance": 7953.412429797556,
+    "business_hours": [],
+    "attributes": {
+      "business_url": "",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "full_bar",
+      "ambience": {
+        "romantic": false,
+        "intimate": false,
+        "classy": false,
+        "hipster": false,
+        "divey": false,
+        "touristy": false,
+        "trendy": false,
+        "upscale": false,
+        "casual": false
+      },
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": false,
+        "valet": false
+      },
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": true,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": true,
+      "menu_url": "",
+      "noise_level": "average",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": false,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": true,
+      "restaurants_table_service": null,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "liked_by_vegans": null,
+      "outdoor_seating": true,
+      "liked_by_vegetarians": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "TgiO145Ur88EUlzaHBujvg",
+    "alias": "banshan-bbq-coquitlam",
+    "name": "Banshan BBQ",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/V2Dt_-qtpB3FgnQNw4ajSw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/banshan-bbq-coquitlam?adjust_creative=e8RJLN87VRsTc5tgv8Nz2A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=e8RJLN87VRsTc5tgv8Nz2A",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "chinese",
+        "title": "Chinese"
+      },
+      {
+        "alias": "bbq",
+        "title": "Barbeque"
+      }
+    ],
+    "rating": 4.0,
+    "coordinates": {
+      "latitude": 49.29581636667585,
+      "longitude": -122.80286350302369
+    },
+    "transactions": [],
+    "location": {
+      "address1": "1410 Parkway Boulevard",
+      "address2": "",
+      "address3": null,
+      "city": "Coquitlam",
+      "zip_code": "V3E 3J7",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "1410 Parkway Boulevard",
+        "Coquitlam, BC V3E 3J7",
+        "Canada"
+      ]
+    },
+    "phone": "+17782857979",
+    "display_phone": "+1 778-285-7979",
+    "distance": 9475.296244194971,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1100",
+            "end": "2200",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": null,
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": null,
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "happy_hour": null,
+      "has_tv": null,
+      "menu_url": null,
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": null,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": null,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "9kRPZPnTSg61N20SPmmrww",
+    "alias": "subway-coquitlam-2",
+    "name": "Subway",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PuLx5VVzY4djs3F9vio3iA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/subway-coquitlam-2?adjust_creative=e8RJLN87VRsTc5tgv8Nz2A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=e8RJLN87VRsTc5tgv8Nz2A",
+    "review_count": 9,
+    "categories": [
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      },
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      }
+    ],
+    "rating": 2.3,
+    "coordinates": {
+      "latitude": 49.29617569958336,
+      "longitude": -122.80367362096648
+    },
+    "transactions": [],
+    "price": "$",
+    "location": {
+      "address1": "1410 Parkway Boulevard",
+      "address2": "Unit C-04",
+      "address3": "",
+      "city": "Coquitlam",
+      "zip_code": "V3E 3J7",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "1410 Parkway Boulevard",
+        "Unit C-04",
+        "Coquitlam, BC V3E 3J7",
+        "Canada"
+      ]
+    },
+    "phone": "+16049444423",
+    "display_phone": "+1 604-944-4423",
+    "distance": 9487.319593233324,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "2300",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "2300",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "2300",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "2300",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0600",
+            "end": "2300",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2300",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2300",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "http://www.subway.ca",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "none",
+      "ambience": {
+        "hipster": false,
+        "casual": false,
+        "touristy": false,
+        "trendy": false,
+        "intimate": false,
+        "romantic": false,
+        "classy": true,
+        "upscale": false
+      },
+      "bike_parking": true,
+      "business_accepts_apple_pay": null,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": true,
+        "valet": false
+      },
+      "caters": true,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": true,
+      "good_for_meal": null,
+      "has_tv": true,
+      "menu_url": "http://w.subway.com/en-ca/menunutrition",
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": true,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": false,
+      "restaurants_table_service": null,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": "free",
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": true,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "rQD5nEQJ5XhqLOs0_sfUAA",
+    "alias": "o-sushi-coquitlam",
+    "name": "O-Sushi",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iY0gdAr9kyR7Cj_igg8LvA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/o-sushi-coquitlam?adjust_creative=e8RJLN87VRsTc5tgv8Nz2A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=e8RJLN87VRsTc5tgv8Nz2A",
+    "review_count": 26,
+    "categories": [
+      {
+        "alias": "sushi",
+        "title": "Sushi Bars"
+      }
+    ],
+    "rating": 3.3,
+    "coordinates": {
+      "latitude": 49.29632156303125,
+      "longitude": -122.80358526073476
+    },
+    "transactions": [],
+    "price": "$",
+    "location": {
+      "address1": "1410 Parkway Boulevard",
+      "address2": "",
+      "address3": "",
+      "city": "Coquitlam",
+      "zip_code": "V3E 3J7",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "1410 Parkway Boulevard",
+        "Coquitlam, BC V3E 3J7",
+        "Canada"
+      ]
+    },
+    "phone": "+16049413737",
+    "display_phone": "+1 604-941-3737",
+    "distance": 9471.224290807591,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2130",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2130",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2130",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2130",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "1130",
+            "end": "2200",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "1200",
+            "end": "2100",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": null,
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": "Won Oh has owned O Sushi for over 10 years.",
+      "about_this_biz_bio_first_name": "Won",
+      "about_this_biz_bio_last_name": "O",
+      "about_this_biz_history": null,
+      "about_this_biz_role": "Business Owner",
+      "about_this_biz_specialties": "Sushi, sashimi, nigiri, donburi, udon, yakisoba and rolls.",
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": "beer_and_wine",
+      "ambience": {
+        "hipster": false,
+        "casual": false,
+        "touristy": false,
+        "trendy": false,
+        "intimate": false,
+        "romantic": false,
+        "classy": true,
+        "upscale": false
+      },
+      "bike_parking": true,
+      "business_accepts_apple_pay": null,
+      "business_parking": {
+        "garage": false,
+        "street": false,
+        "validated": false,
+        "lot": false,
+        "valet": false
+      },
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": null,
+      "good_for_kids": true,
+      "good_for_meal": {
+        "dessert": false,
+        "latenight": false,
+        "lunch": false,
+        "dinner": false,
+        "brunch": false,
+        "breakfast": false
+      },
+      "happy_hour": null,
+      "has_tv": true,
+      "menu_url": null,
+      "noise_level": "quiet",
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_attire": "casual",
+      "restaurants_delivery": true,
+      "restaurants_good_for_groups": true,
+      "restaurants_reservations": false,
+      "restaurants_table_service": null,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": "no",
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": false,
+      "hot_and_new": null
+    }
+  },
+  {
+    "id": "TjcgLNssx15yJvsC6d2frg",
+    "alias": "subway-coquitlam-3",
+    "name": "Subway",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/moRYKqfEmXNnZ6K6V86sMg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/subway-coquitlam-3?adjust_creative=e8RJLN87VRsTc5tgv8Nz2A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=e8RJLN87VRsTc5tgv8Nz2A",
+    "review_count": 9,
+    "categories": [
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      },
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      }
+    ],
+    "rating": 1.9,
+    "coordinates": {
+      "latitude": 49.2927117526742,
+      "longitude": -122.755393807763
+    },
+    "transactions": [],
+    "location": {
+      "address1": "3380 David Avenue",
+      "address2": "Unit 2",
+      "address3": "Meridian Crossing",
+      "city": "Coquitlam",
+      "zip_code": "V3B 1T3",
+      "country": "CA",
+      "state": "BC",
+      "display_address": [
+        "3380 David Avenue",
+        "Unit 2",
+        "Meridian Crossing",
+        "Coquitlam, BC V3B 1T3",
+        "Canada"
+      ]
+    },
+    "phone": "+16044647522",
+    "display_phone": "+1 604-464-7522",
+    "distance": 7832.359428342977,
+    "business_hours": [
+      {
+        "open": [
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2300",
+            "day": 0
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2300",
+            "day": 1
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2300",
+            "day": 2
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2300",
+            "day": 3
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2300",
+            "day": 4
+          },
+          {
+            "is_overnight": false,
+            "start": "0700",
+            "end": "2300",
+            "day": 5
+          },
+          {
+            "is_overnight": false,
+            "start": "0800",
+            "end": "2300",
+            "day": 6
+          }
+        ],
+        "hours_type": "REGULAR",
+        "is_open_now": false
+      }
+    ],
+    "attributes": {
+      "business_url": "http://w.subway.com/en-ca",
+      "about_this_biz_bio_photo_dict": null,
+      "about_this_biz_business_recommendation": [],
+      "business_temp_closed": null,
+      "about_this_biz_bio": null,
+      "about_this_biz_bio_first_name": null,
+      "about_this_biz_bio_last_name": null,
+      "about_this_biz_history": null,
+      "about_this_biz_role": null,
+      "about_this_biz_specialties": null,
+      "about_this_biz_year_established": null,
+      "accepted_cards": {
+        "credit": true,
+        "none": false,
+        "debit": true
+      },
+      "alcohol": null,
+      "ambience": null,
+      "bike_parking": null,
+      "business_accepts_apple_pay": null,
+      "business_parking": null,
+      "caters": null,
+      "dogs_allowed": null,
+      "drive_thru": false,
+      "good_for_kids": null,
+      "good_for_meal": null,
+      "has_tv": null,
+      "menu_url": "http://w.subway.com/en-ca/menunutrition",
+      "noise_level": null,
+      "open24_hours": null,
+      "platform_delivery": null,
+      "restaurants_delivery": true,
+      "restaurants_good_for_groups": null,
+      "restaurants_reservations": null,
+      "restaurants_table_service": null,
+      "restaurants_take_out": true,
+      "waitlist_reservation": null,
+      "wi_fi": null,
+      "liked_by_vegans": null,
+      "liked_by_vegetarians": null,
+      "outdoor_seating": null,
+      "hot_and_new": null
+    }
+  }
+]
